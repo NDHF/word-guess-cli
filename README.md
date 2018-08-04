@@ -37,8 +37,11 @@ UPCOMING FEATURES
 * Add a standard 'hint' console log, suggesting the user try vowels first
 * Add another 'hint' console log for the GAME OVER function, reminding them of the "SHOW WORDS" command 
 * List all letters guessed so far in a console log
-* Make game easier to modify for other word banks.
-- For example, make functions take arrays as an argument, rather than name the array within the function itself.
+* Make game easier to modify for other word banks
+- For example, make functions take arrays as an argument, rather than name the array within the function itself
+* Read/write wins and losses to a file, so they don't disappear after quitting
+* A simple achievement system, using the read/write method
+- Some achievement ideas: correctly guess all the reserve words, winning 10/100/500 rounds.
 
 CREDITS
 
