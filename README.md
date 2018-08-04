@@ -31,6 +31,15 @@ FEATURES
 - Upon completion of a game, a random fun fact will be presented
 - The game can be modified for different words with little change to the actual code. Mostly the word and fun fact arrays would need to be changed.
 
+UPCOMING FEATURES
+* Clarify that players guess one word at a time
+* Maybe add a 'solve' function
+* Add a standard 'hint' console log, suggesting the user try vowels first
+* Add another 'hint' console log for the GAME OVER function, reminding them of the "SHOW WORDS" command 
+* List all letters guessed so far in a console log
+* Make game easier to modify for other word banks.
+- For example, make functions take arrays as an argument, rather than name the array within the function itself.
+
 CREDITS
 
 * Special thanks to FrogBomb (https://github.com/FrogBomb) for suggestions that helped solve a memory leak related to listening events. 
